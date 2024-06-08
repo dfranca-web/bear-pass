@@ -1,2 +1,2 @@
-# bear-pass
+# bear-password
 Password Manager application
